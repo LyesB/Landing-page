@@ -100,3 +100,24 @@ button {
     color: #1F2937;
 
 }
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    
+    background-color: #E5E7EB;
+    padding: 50px 200px;
+    margin: 50px 0px;
+}
+.quote {
+    text-align: start;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+.quote-author {
+    text-align: end;
+    font-size: 26px;
+    color: #1F2937;
+    font-weight: 700;
+    align-self: flex-end;
+}
