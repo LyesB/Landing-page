@@ -123,3 +123,25 @@ button {
     align-self: flex-end;
     margin-right: 50px;
 }
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color: #3882F6;
+    margin: 50px 200px;
+    border-radius: 10px;
+}
+.call-to-action .signup-button {
+    border: solid #fff;
+}
+
+.text .main-text {
+    color: #fff;
+    font-size: large;
+    font-weight: bold;
+}
+.text .sub-text {
+    color: #fff;
+    margin-top: 5px;
+}
